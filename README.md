@@ -34,7 +34,7 @@ This Python script automates the calculation of surface area and enclosed volume
    - Place all `*.pdb` files into the `PDB/` folder.  
 4. Run the analysis  
    ```bash
-   python analyse_surface_volume.py  
+   python start.py or paste it to the jupyter notebook 
    ```  
 
 ---
