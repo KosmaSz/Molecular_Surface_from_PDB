@@ -28,7 +28,8 @@ This Python script automates the calculation of surface area and enclosed volume
    ```  
 2. Install dependencies  
    ```bash
-   pip install -r requirements.txt  
+pip install pandas numpy matplotlib joblib tqdm MDAnalysis scikit-learn scipy pyvista
+
    ```  
 3. Prepare PDB input  
    - Place all `*.pdb` files into the `PDB/` folder.  
