@@ -3,6 +3,7 @@
 # Version: 2024.06
 # kosma.szutkowski@gmail.com 
 # Date: 24 April 2025
+# Usage: put all your PDB files from MD simulation in the directory.
 # ================================================================
 from __future__ import annotations
 import os, re, math, logging
